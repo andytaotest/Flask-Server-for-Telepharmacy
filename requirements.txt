@@ -1,3 +1,7 @@
+Python=3.8.12
+Flask==1.1.2
+flask-ngrok==0.0.25
+gunicorn==19.9.0
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 anaconda-client @ file:///opt/concourse/worker/volumes/live/ce6e20ef-c449-4fb2-5463-03f67f4a0b31/volume/anaconda-client_1635342572171/work
 anaconda-navigator==2.1.2
@@ -289,7 +293,3 @@ zict==2.0.0
 zipp @ file:///opt/conda/conda-bld/zipp_1641824620731/work
 zope.event==4.5.0
 zope.interface @ file:///opt/concourse/worker/volumes/live/c276dde8-3639-4094-58c5-966878d97687/volume/zope.interface_1625036167044/work
-Python=3.8.12
-Flask==1.1.2
-flask-ngrok==0.0.25
-gunicorn==19.9.0
