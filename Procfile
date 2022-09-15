@@ -1,1 +1,1 @@
-web: python -m flask init-db
+web: gunicorn wsgi:app
