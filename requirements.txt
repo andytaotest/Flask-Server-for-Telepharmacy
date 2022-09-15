@@ -289,5 +289,6 @@ zict==2.0.0
 zipp @ file:///opt/conda/conda-bld/zipp_1641824620731/work
 zope.event==4.5.0
 zope.interface @ file:///opt/concourse/worker/volumes/live/c276dde8-3639-4094-58c5-966878d97687/volume/zope.interface_1625036167044/work
+Python=3.8.12
 Flask==1.1.2
 gunicorn==19.9.0
